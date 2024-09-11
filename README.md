@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Data Science & ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dileepNaiduOne?tab=repositor](https://github.com/dileepNaiduOne?tab=repositor)
-
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/dileepNaiduOne?tab=repositories)
+  
 - 💬 Ask me about **Python**
 
 - 📫 Reach me at **dile2107@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link](https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link)
+- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link)
 
 - ⚡ Fun fact **I am damn Lazy...Until it grabs my attention.**
 
