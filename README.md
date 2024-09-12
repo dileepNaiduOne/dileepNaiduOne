@@ -27,8 +27,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" style="display:block;padding:20" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/python--v1.png" alt="tableau" width="50" height="50"/> </a>
-  <a href="https://public.tableau.com/app/profile/dileep.s.patcha/vizzes" style="display:block;padding:20" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/50/tableau-software.png" alt="tableau" width="50" height="50"/> </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/python--v1.png" alt="tableau" width="40" height="40"/></a>&nbsp;
+  <a href="https://public.tableau.com/app/profile/dileep.s.patcha/vizzes" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/tableau-software.png" alt="tableau" width="40" height="40"/></a>&nbsp;
+  <a href="https://public.tableau.com/app/profile/dileep.s.patcha/vizzes" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/tableau-software.png" alt="tableau" width="40" height="40"/></a>&nbsp;
 <!--   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
