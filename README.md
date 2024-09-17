@@ -11,8 +11,6 @@
   
 - 💬 Ask me about **Python**
 
-- 📫 Reach me at **dile2107@gmail.com**
-
 - 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link)
 
 - ⚡ Fun fact **I am damn Lazy...Until it grabs my attention.**
