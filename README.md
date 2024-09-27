@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/dileepNaiduOne?tab=repositories)
   
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python & SQL**
 
 - 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link)
 
