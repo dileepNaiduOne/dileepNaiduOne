@@ -1,4 +1,8 @@
-<h1 align="center">Welcome👋, I'm Patcha Dileep Sai Naidu</h1>
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=50&duration=3000&pause=1000&color=F23D3D&width=1000&height=100&lines=Namaste+🙏+This+is+Dileep+Sai+Naidu+Patcha." alt="Typing SVG" />
+</h1>
+
+
 <h3 align="center">Obsessed with design, creativity & learning</h3>
 
 - 🔭 I’m currently working on [Depression Prediction](https://github.com/dileepNaiduOne/Will-You-Be-Depression)
