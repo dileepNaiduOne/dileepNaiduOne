@@ -19,6 +19,14 @@
 
 - ⚡ Fun fact **I am damn Lazy...Until it grabs my attention.**
 
+
+
+
+<h1 align="center">
+    <img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/skills.png" alt="dileepnaidu" height="400" width="900" />
+</h1>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/filled-message.png" alt="dileepnaidu" height="40" width="40" /></a>&nbsp&nbsp&nbsp;
@@ -28,6 +36,8 @@
   <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png" alt="dileepnaiduone" height="40" width="40" /></a>&nbsp&nbsp&nbsp;
 </p>
 
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/ios/50/python--v1.png" alt="tableau" width="40" height="40"/></a>&nbsp&nbsp&nbsp;
@@ -47,6 +57,8 @@
   <a href="https://numpy.org/doc/stable/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/dileepNaiduOne/dileepNaidu-V-2/blob/main/images/icons8-numpy-48.png" alt="numpy" width="40" height="40"/></a>&nbsp&nbsp&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/dileepNaiduOne/dileepNaidu-V-2/blob/main/images/22024tf.png" alt="tensorflow" width="40" height="40"/></a>&nbsp&nbsp&nbsp;
 </p>
+-->
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepnaiduone&show_icons=true&theme=gruvbox&title_color=45099f&text_color=313030&bg_color=f2f2f2&hide_border=false&locale=en&layout=compact" alt="dileepnaiduone" /></p>
 
