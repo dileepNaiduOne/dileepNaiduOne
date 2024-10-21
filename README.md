@@ -1,13 +1,13 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=50&duration=3000&pause=1000&color=F23D3D&width=1000&height=100&lines=Namaste+🙏+This+is+Dileep+Sai+Naidu+Patcha." alt="Dileep's spline 3D Element" />
+    
 </h1>
-
-
-<h3 align="center">Obsessed with design, creativity & learning</h3>
 
 <h1 align="center">
     <img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/skills.png" alt="dileepnaidu" height="400" width="900" />
 </h1>
+
+### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
 - 🔭 I’m currently working on [Depression Prediction](https://github.com/dileepNaiduOne/Will-You-Be-Depression)
 
@@ -34,11 +34,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/maile.png" alt="dileepnaidu" height="40" width="40" /></a>&nbsp;
-  <a href="https://linkedin.com/in/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp;
-  <a href="https://kaggle.com/dileeppatchaone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/kaagle.png" alt="kaggle" height="40" width="40" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/hr.png" alt="hackerrank" height="40" width="40" /></a>&nbsp;
-  <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/leetcode.png" alt="leetcode" height="40" width="40" /></a>&nbsp;
+  <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/maile.png" alt="dileepnaidu" height="60" width="60" /></a>&nbsp&nbsp;
+  <a href="https://linkedin.com/in/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/linkedin.png" alt="linkedin" height="60" width="60" /></a>&nbsp&nbsp;
+  <a href="https://kaggle.com/dileeppatchaone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/kaagle.png" alt="kaggle" height="60" width="60" /></a>&nbsp&nbsp;
+  <a href="https://www.hackerrank.com/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/hr.png" alt="hackerrank" height="60" width="60" /></a>&nbsp&nbsp;
+  <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/leetcode.png" alt="leetcode" height="60" width="60" /></a>&nbsp&nbsp;
 </p>
 <br/><br/>
 <h1></h1>
