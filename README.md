@@ -30,28 +30,28 @@
 
 - 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link)
 
-- ⚡ Fun fact **I am damn Lazy...Until it grabs my attention.**
+- ⚡ Fun fact **I am damn Lazy...Until it something grabs my attention.**
 
 <br/><br/>
 
 
-
+<!-- Emojies shortcut codes : https://gist.github.com/rxaviers/7360908 -->
 
 
 <h3 align="left">To Learn List:</h3>
 
-- [x] Python
-- [x] Machine Learning
-- [x] SQL
-- [x] Tableau
-- [ ] Deep Learning
-- [ ] GenAI
-- [ ] Cloud
-- [ ] MLOps
-- [x] Git
-- [ ] NLP
-- [ ] Dance
-- [x] Streamlit
+- [x] Python :snake:
+- [x] Machine Learning :bicyclist:
+- [x] SQL :scroll:
+- [x] Tableau :chart_with_upwards_trend:
+- [ ] Deep Learning :horse_racing:
+- [ ] GenAI :moyai:
+- [ ] Cloud ☁️
+- [ ] MLOps 🤖
+- [x] Git ⚡
+- [ ] NLP 🗽
+- [ ] Dance 🕺
+- [x] Streamlit 🕸️
 
 <br/><br/>
 
