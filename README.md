@@ -29,11 +29,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/maile.png" alt="dileepnaidu" height="40" width="40" /></a>&nbsp&nbsp&nbsp;
-  <a href="https://linkedin.com/in/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp&nbsp&nbsp;
-  <a href="https://kaggle.com/dileeppatchaone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/kaagle.png" alt="kaggle" height="40" width="40" /></a>&nbsp&nbsp&nbsp;
-  <a href="https://www.hackerrank.com/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/hackerrank.png" alt="hackerrank" height="40" width="40" /></a>&nbsp&nbsp&nbsp;
-  <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/leetcode.png" alt="leetcode" height="40" width="40" /></a>&nbsp&nbsp&nbsp;
+  <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/maile.png" alt="dileepnaidu" height="40" width="40" /></a>&nbsp;
+  <a href="https://linkedin.com/in/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/linkedin.png" alt="linkedin" height="40" width="40" /></a>&nbsp;
+  <a href="https://kaggle.com/dileeppatchaone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/kaagle.png" alt="kaggle" height="40" width="40" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/hr.png" alt="hackerrank" height="40" width="40" /></a>&nbsp;
+  <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/leetcode.png" alt="leetcode" height="40" width="40" /></a>&nbsp;
 </p>
 
 
