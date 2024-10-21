@@ -3,9 +3,18 @@
     
 </h1>
 
+
+
+
+
 <h1 align="center">
     <img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/skills.png" alt="dileepnaidu" height="400" width="900" />
 </h1>
+
+
+
+
+
 
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
@@ -25,12 +34,30 @@
 
 <br/><br/>
 
+
+
+
+
 <h3 align="left">To Learn List:</h3>
 
 - [x] Python
+- [x] Machine Learning
+- [x] SQL
+- [x] Tableau
 - [ ] Deep Learning
+- [ ] GenAI
+- [ ] Cloud
+- [ ] MLOps
+- [x] Git
+- [ ] NLP
+- [ ] Dance
+- [x] Streamlit
 
 <br/><br/>
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,6 +69,10 @@
 </p>
 <br/><br/>
 <h1></h1>
+
+
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepnaiduone&show_icons=true&theme=gruvbox&title_color=45099f&text_color=313030&bg_color=f2f2f2&hide_border=false&locale=en&layout=compact" alt="dileepnaiduone" /></p>
