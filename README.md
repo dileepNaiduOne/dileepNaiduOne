@@ -18,7 +18,7 @@
 
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
-- 🔭 I’m currently working on [Depression Prediction](https://github.com/dileepNaiduOne/Will-You-Be-Depression)
+- 🔭 I’m currently working on [ShoVi](https://github.com/dileepNaiduOne/ShoVi-summarize_the_video)
 
 - 🌱 I’m currently learning **Deep Learning, Azure, and Being calm**
 
@@ -26,11 +26,11 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/dileepNaiduOne?tab=repositories)
   
-- 💬 Ask me about **Python & SQL**
+- 💬 I can help you with **Python & SQL**
 
 - 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link)
 
-- ⚡ Fun fact **I am damn Lazy...Until it something grabs my attention.**
+- ⚡ Fun fact **I am damn Lazy...Until something grabs my attention.**
 
 <br/><br/>
 
