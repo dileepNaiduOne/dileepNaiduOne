@@ -14,23 +14,16 @@
 
 
 
-
-
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
-- 🔭 I’m currently working on [ShoVi](https://github.com/dileepNaiduOne/ShoVi-summarize_the_video)
-
-- 🌱 I’m currently learning **Deep Learning, Azure, and Being calm**
-
-- 👯 I’m looking to collaborate on **Data Science & ML**
-
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/dileepNaiduOne?tab=repositories)
-  
-- 💬 I can help you with **Python & SQL**
-
-- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link)
-
-- ⚡ Fun fact **I am damn Lazy...Until something grabs my attention.**
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/dileepNaiduOne/ShoVi-summarize_the_video"> ShoVi </a></li>
+  <li>🌱 I’m currently learning <strong>Deep Learning</strong>, <strong>Azure</strong>, and <strong>Being calm</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>Data Science & ML</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/dileepNaiduOne?tab=repositories"> Repositories </a></li>
+  <li>💬 I can help you with <strong>Python</strong> & <strong>SQL</strong></li>
+  <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link"> Résumé </a></li>
+</ul>
 
 <br/><br/>
 
