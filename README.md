@@ -1,11 +1,12 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=50&duration=3000&pause=1000&color=F23D3D&width=1000&height=100&lines=Namaste+🙏+This+is+Dileep+Sai+Naidu+Patcha." alt="Dileep's spline 3D Element" />
-    
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=50&duration=3000&pause=1000&color=F23D3D&width=1000&height=100&lines=Namaste+🙏+This+is+Dileep+Sai+Naidu+Patcha." alt="Dileep's spline 3D Element"/>
+
+###
+---
 
 ![Azure](https://github.com/user-attachments/assets/2110b58c-8ef7-450d-bc3b-0a13b245c42f)
 
-<br/><br/>
+###
+---
 
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
@@ -18,8 +19,8 @@
   <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1ho5zgRe-ApYnaegkzqwJWxD4XeTUqnCv/view?usp=drive_link"> Résumé </a></li>
 </ul>
 
-<br/><br/>
-
+###
+---
 
 <!-- Emojies shortcut codes : https://gist.github.com/rxaviers/7360908 -->
 
@@ -39,28 +40,25 @@
 - [ ] Dance 🕺
 - [x] Streamlit 🕸️
 
-<br/><br/>
+###
+---
 
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Link About Me</h3>
+<p align="center">
   <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/maile.png" alt="dileepnaidu" height="60" width="60" /></a>&nbsp&nbsp;
   <a href="https://linkedin.com/in/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/linkedin.png" alt="linkedin" height="60" width="60" /></a>&nbsp&nbsp;
   <a href="https://kaggle.com/dileeppatchaone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/kaagle.png" alt="kaggle" height="60" width="60" /></a>&nbsp&nbsp;
   <a href="https://www.hackerrank.com/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/hr.png" alt="hackerrank" height="60" width="60" /></a>&nbsp&nbsp;
   <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/leetcode.png" alt="leetcode" height="60" width="60" /></a>&nbsp&nbsp;
 </p>
-<br/><br/>
-<h1></h1>
 
 
+###
+---
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepnaiduone&show_icons=true&theme=gruvbox&title_color=45099f&text_color=313030&bg_color=f2f2f2&hide_border=false&locale=en&layout=compact" alt="dileepnaiduone" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dileepnaiduone&" alt="dileepnaiduone" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dileepnaiduone&" alt="dileepnaiduone" /></p>
