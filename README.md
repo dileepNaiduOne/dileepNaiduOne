@@ -3,16 +3,9 @@
     
 </h1>
 
+![Azure](https://github.com/user-attachments/assets/2110b58c-8ef7-450d-bc3b-0a13b245c42f)
 
-
-
-
-<h1 align="center">
-    <img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/skills.png" alt="dileepnaidu" height="400" width="900" />
-</h1>
-
-
-
+<br/><br/>
 
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
