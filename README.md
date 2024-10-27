@@ -43,7 +43,7 @@
 ###
 ---
 
-<h3 align="center">Link About Me</h3>
+<h3 align="center">Links, About Me</h3>
 <p align="center">
   <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/maile.png" alt="dileepnaidu" height="60" width="60" /></a>&nbsp&nbsp;
   <a href="https://linkedin.com/in/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/linkedin.png" alt="linkedin" height="60" width="60" /></a>&nbsp&nbsp;
