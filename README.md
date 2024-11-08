@@ -2,8 +2,16 @@
 
 ###
 ---
+<h3 align="center">Apps, that I built</h3>
+<p align="center">
+  <a href="https://dn-shovi.streamlit.app/" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/ShoVi-summarize_the_video/blob/main/logo.png" alt="Shovi" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://make-me-smart.vercel.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/MakeMeSmart/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>
+</p>
 
-![Azure](https://github.com/user-attachments/assets/2110b58c-8ef7-450d-bc3b-0a13b245c42f)
+###
+---
+
+![SkillsSet](https://github.com/user-attachments/assets/2110b58c-8ef7-450d-bc3b-0a13b245c42f)
 
 ###
 ---
@@ -49,7 +57,7 @@
   <a href="https://linkedin.com/in/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/linkedin.png" alt="linkedin" height="60" width="60" /></a>&nbsp&nbsp;
   <a href="https://kaggle.com/dileeppatchaone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/kaagle.png" alt="kaggle" height="60" width="60" /></a>&nbsp&nbsp;
   <a href="https://www.hackerrank.com/dileepnaidu" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/hr.png" alt="hackerrank" height="60" width="60" /></a>&nbsp&nbsp;
-  <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/leetcode.png" alt="leetcode" height="60" width="60" /></a>&nbsp&nbsp;
+  <a href="https://www.leetcode.com/dileepnaiduone" target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/leetcode.png" alt="leetcode" height="60" width="60" /></a>
 </p>
 
 
