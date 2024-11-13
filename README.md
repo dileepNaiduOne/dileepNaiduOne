@@ -11,10 +11,9 @@
 ###
 ---
 <h3 align="center">
-<a href="https://youtu.be/z5eFdFSEmxA?si=fYgi6Vepvi8jX0uF" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/Screenshot%202024-11-12%20172034.png" alt="Thumbnail" height="281" width="500" /></a>
+<a href="https://youtu.be/z5eFdFSEmxA?si=fYgi6Vepvi8jX0uF" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/Screenshot%202024-11-12%20172034.png" alt="Thumbnail" height="160" width="285" /></a>&nbsp;&nbsp;
+<img align="center" src="https://github.com/user-attachments/assets/2110b58c-8ef7-450d-bc3b-0a13b245c42f" alt="SkillSet" height="160" width="700" />
 </h3>
-
-![SkillsSet](https://github.com/user-attachments/assets/2110b58c-8ef7-450d-bc3b-0a13b245c42f)
 
 ###
 ---
