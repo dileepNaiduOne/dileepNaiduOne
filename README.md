@@ -23,8 +23,8 @@
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/dileepNaiduOne/MakeMeSmart"> MakeMeSmart </a></li>
-  <li>🌱 I’m currently learning <strong>Deep Learning</strong>, <strong>Power BI</strong>,  <strong>JavaScript</strong>, and <strong>Being calm</strong></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/dileepNaiduOne/MakeMeSmart"> MakeMeSmart </a>, <a href="https://github.com/dileepNaiduOne/JADE"> JADE </a></li>
+  <li>🌱 I’m currently learning <strong>Deep Learning</strong>, <strong>NLP</strong>,  <strong>JavaScript</strong>, and <strong>Being calm</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Data Science & ML</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/dileepNaiduOne?tab=repositories"> Repositories </a></li>
   <li>💬 I can help you with <strong>Python</strong> & <strong>SQL</strong></li>
