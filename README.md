@@ -14,7 +14,7 @@
 ---
 <h3 align="center">
 <a href="https://youtu.be/cyfXocCGdJo?si=-UJT4WVBOiBggv37" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/Screenshot%202024-11-12%20172034.png" alt="Thumbnail" height="133" width="235" /></a>&nbsp;
-<img align="center" src="https://raw.githubusercontent.com/dileepNaiduOne/icons/refs/heads/main/Azure.png" alt="SkillSet" height="133" width="565" />
+<img align="center" src="https://raw.githubusercontent.com/dileepNaiduOne/icons/refs/heads/main/Skill%20Set.png" alt="SkillSet" height="133" width="565" />
 </h3>
 
 ###
