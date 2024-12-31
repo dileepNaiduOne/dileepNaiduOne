@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://dn-shovi.streamlit.app/" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/ShoVi-summarize_the_video/blob/main/logo.png" alt="Shovi" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://makemesmart.streamlit.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/MakeMeSmart/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp/blob/main/logo.png" alt="Budget" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dileepNaiduOne/BUDGET-app" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp/blob/main/logo.png" alt="Budget" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dileepNaiduOne/JADE" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/JADE/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>
   
 </p>
@@ -24,7 +24,7 @@
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp"> BUDGET - Life Insurance Prediction App </a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/dileepNaiduOne/BUDGET-app"> BUDGET - Life Insurance Prediction App </a></li>
   <li>🌱 I’m currently learning <strong>Deep Learning</strong>, <strong>NLP</strong>,  <strong>JavaScript</strong>, and <strong>Being calm</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Data Science & ML</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/dileepNaiduOne?tab=repositories"> Repositories </a></li>
