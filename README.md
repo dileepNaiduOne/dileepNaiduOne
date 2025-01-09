@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://dn-shovi.streamlit.app/" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/ShoVi-summarize_the_video/blob/main/logo.png" alt="Shovi" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://makemesmart.streamlit.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/MakeMeSmart/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/dileepNaiduOne/BUDGET-app" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp/blob/main/logo.png" alt="Budget" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://predict-budget.streamlit.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp/blob/main/logo.png" alt="Budget" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dileepNaiduOne/JADE" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/JADE/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>
   
 </p>
