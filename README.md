@@ -7,7 +7,7 @@
   <a href="https://dn-shovi.streamlit.app/" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/ShoVi-summarize_the_video/blob/main/logo.png" alt="Shovi" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://makemesmart.streamlit.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/MakeMeSmart/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://predict-budget.streamlit.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp/blob/main/logo.png" alt="Budget" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/dileepNaiduOne/JADE" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/JADE/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>
+  <a href="https://github.com/dileepNaiduOne/spy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dileepNaiduOne/spy/refs/heads/main/SPY.png" alt="MakeMeSmart" height="60" width="60" /></a>
   
 </p>
 
@@ -24,7 +24,7 @@
 ### Obsessed with <mark>design</mark>, <mark>creativity</mark>, <mark>learning</mark> & <mark>data</mark>.
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/dileepNaiduOne/BUDGET-app"> BUDGET - Life Insurance Prediction App </a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/dileepNaiduOne/spy"> SPY </a></li>
   <li>🌱 I’m currently learning <strong>Deep Learning</strong>, <strong>NLP</strong>,  <strong>JavaScript</strong>, and <strong>Being calm</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Data Science & ML</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/dileepNaiduOne?tab=repositories"> Repositories </a></li>
