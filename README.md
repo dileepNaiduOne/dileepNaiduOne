@@ -38,7 +38,7 @@
 <!-- Emojies shortcut codes : https://gist.github.com/rxaviers/7360908 -->
 
 
-<h3 align="left">To Learn List:</h3>
+<!-- <h3 align="left">To Learn List:</h3>
 
 - [x] Python :snake:
 - [x] Machine Learning :bicyclist:
@@ -53,9 +53,10 @@
 - [ ] Dance 🕺
 - [x] Streamlit 🕸️
 
+
 ###
 ---
-
+-->
 <h3 align="center">Links, About Me</h3>
 <p align="center">
   <a href="mailto:dile2107@gmail.com?subject=Dileep%20Naidu%2C%20I%20saw%20your%20profile%20on%20Github..." target="blank"><img align="center" src="https://github.com/dileepNaiduOne/icons/blob/main/maile.png" alt="dileepnaidu" height="60" width="60" /></a>&nbsp&nbsp;
