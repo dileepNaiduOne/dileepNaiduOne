@@ -5,8 +5,8 @@
 <h3 align="center">Apps, that I built</h3>
 <p align="center">
   <a href="https://dn-shovi.streamlit.app/" target="_blank" ><img align="center" src="https://github.com/dileepNaiduOne/ShoVi-summarize_the_video/blob/main/logo.png" alt="Shovi" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://public.tableau.com/app/profile/dileep.s.patcha/viz/1-LifestyeAnalysisProject/Home" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/MakeMeSmart/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://makemesmart.streamlit.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dileepNaiduOne/Lifestyle-Analysis-Tableau/refs/heads/main/logo.png" alt="Tableau" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://makemesmart.streamlit.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/MakeMeSmart/blob/main/logo.png" alt="MakeMeSmart" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/dileep.s.patcha/viz/1-LifestyeAnalysisProject/Home" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dileepNaiduOne/Lifestyle-Analysis-Tableau/refs/heads/main/logo.png" alt="Tableau" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://predict-budget.streamlit.app/" target="_blank"><img align="center" src="https://github.com/dileepNaiduOne/BUDGET-LifeInsurancePredictionApp/blob/main/logo.png" alt="Budget" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dileepNaiduOne/spy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dileepNaiduOne/spy/refs/heads/main/SPY.png" alt="MakeMeSmart" height="60" width="60" /></a>
   
